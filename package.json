@@ -1,0 +1,14 @@
+{
+  "name": "ai-story-generator",
+  "version": "1.0.0",
+  "description": "AI 릴레이 동화 만들기",
+  "main": "api/generate.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
